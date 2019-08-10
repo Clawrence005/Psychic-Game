@@ -8,7 +8,6 @@ A Javascript game in which the player presses a random key and the game will sho
 - HTML
 - CSS
 - Javascript
-- SVGs
 
 ## [Click here ](https://clawrence005.github.io/Psychic-Game/)to play the game and see if you are physic!
 
