@@ -10,7 +10,7 @@ A Javascript game in which the player presses a random key and the game will sho
 - Javascript
 - SVGs
 
-## [Click here to play the game](https://clawrence005.github.io/Psychic-Game/) and see if you are physic!
+## [Click here ](https://clawrence005.github.io/Psychic-Game/)to play the game and see if you are physic!
 
 gif/video goes here
 
